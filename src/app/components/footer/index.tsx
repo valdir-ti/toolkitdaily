@@ -2,7 +2,7 @@ import React from 'react'
 
 const Footer = () => {
   return (
-    <div className='h-[120px] bg-red-600 text-white flex items-center justify-between p-2 w-full pl-8 pr-8 absolute bottom-0'>
+    <div className='h-[120px] bg-[#db2b42] text-white flex items-center justify-between p-2 w-full pl-8 pr-8 absolute bottom-0'>
         <div className='ml-8'>
             <h3 className='flex flex-col font-bold text-[24px]'>
                 Toolkit Daily
